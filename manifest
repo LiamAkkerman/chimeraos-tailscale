@@ -147,6 +147,7 @@ export PACKAGES="\
 	sshfs \
 	steam \
 	sudo \
+	tailscale \
 	tar \
 	tree \
 	ttf-liberation \
@@ -260,6 +261,7 @@ export SERVICES="\
 	sshd \
 	systemd-timesyncd \
 	swapfile \
+	tailscaled \
 "
 
 export USER_SERVICES="\
